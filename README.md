@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Ezioleq/Ezioleq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m currently learning **Rust, Node.js** and **Python**
+- I'm often writing programs in **C, C++**
+- Pronouns: he/his
 
-Here are some ideas to get you started:
+#### My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Name|Description|Language|
+|----|-----------|--------|
+|[Portaless](https://github.com/Ezioleq/Portaless)|Portal 2 ripoff but without portals|Unity, C#|
+|[ssappid](https://github.com/Ezioleq/ssappid)|Utility to find Steam app name by AppID and vice-versa|Python|
+|[Voidinary](https://github.com/Ezioleq/Voidinary)|Technical mod for Minecraft (archived)|Java|
+|[Anzu](https://github.com/Ezioleq/Anzu)|Screenshooter for X11 (suspended)|C99|
