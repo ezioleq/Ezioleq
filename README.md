@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 - I’m currently learning **Rust, Node.js** and **Python**
-- I'm often writing programs in **C, C++**
+- I often write my private projects in **C** and **C++** (not for long 🥺)
 - Pronouns: he/his
+
+I also like all the server stuff and virtualization of wide range of systems, I'm really into gamedev and desktop application programming, I don't like bloat, but it's sometimes necessary. Trying to learn new technologies but they're changing so fast 😩
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezioleq&layout=compact)
 
 #### My projects
 
